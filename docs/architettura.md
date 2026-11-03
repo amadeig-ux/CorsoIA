@@ -1,5 +1,5 @@
 # Architettura di StudyBuddy 🏗️
-
+    
 ## Panoramica
 
 StudyBuddy è un'applicazione web a tre livelli:
